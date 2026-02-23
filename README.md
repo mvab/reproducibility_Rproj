@@ -1,2 +1,5 @@
-# reproducibility_Rproj
-Placeholder for workshop slides on managing R projects in a reproducible way (+some R tips)
+# Reproducible project in R - workshop materials
+
+Placeholder for workshop slides on managing R projects in a reproducible way 
+
+![](workshop_advert.png)
